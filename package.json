@@ -1,0 +1,21 @@
+{
+  "name": "graphsync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "serverless",
+    "appsync",
+    "graphql",
+    "schema",
+    "lambda"
+  ],
+  "author": "Dimitri Tarasowski",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.12.0"
+  }
+}
